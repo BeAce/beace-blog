@@ -1,6 +1,6 @@
 {
-    "name": "Beace",
-    "description": "beace blog",
+    "name": "Firekylin",
+    "description": "A Simple & Fast Node Bloging Platform Base On ThinkJS 2.0 & ReactJS & ES2015+",
     "version": "0.12.7",
     "scripts": {
         "start": "node www/development.js",
@@ -26,5 +26,6 @@
         "to-markdown": "^2.0.1",
         "xml2js": "^0.4.16"
     },
+    "repository": "https://github.com/75team/firekylin",
     "license": "MIT"
 }
