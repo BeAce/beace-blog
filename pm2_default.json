@@ -1,0 +1,19 @@
+{
+  "apps": [{
+    "name": "firekylin",
+    "script": "www/production.js",
+<<<<<<< HEAD:pm2.json
+    "cwd": "/var/www/html/beace-blog",
+=======
+    "cwd": "/Users/welefen/Develop/git/firekylin",
+>>>>>>> 6dd4e4e315d4a9280138aeb3fdbbaf06e814dbe1:pm2_default.json
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
