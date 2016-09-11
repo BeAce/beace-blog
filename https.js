@@ -69,7 +69,7 @@ function read() {
 
 function write(data) {
 	return new Promise(function(res, rej) {
-		fs.writeFile('./nginx_default.conf',data,function(err) {
+		fs.writeFile('./nginx.conf',data,function(err) {
 			if(err) {
 				console.log(err);
 			}
