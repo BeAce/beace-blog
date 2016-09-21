@@ -1,5 +1,5 @@
 ## Beace Blog
-Blog by ThinkJS
+Power By ThinkJS
 
 ## Where is my blog?
 [beace's blog](https://beacelee.com)
