@@ -3,4 +3,4 @@ blog by thinkjs
 
 
 ## any question?
-LINK TO beacelee.com
+LINK TO [beace-blog](https://beacelee.com)
